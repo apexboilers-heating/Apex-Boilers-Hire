@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://apexboilerhire.co.uk/sitemap.xml
